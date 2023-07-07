@@ -1,6 +1,6 @@
 
 import './App.css'
-import QRcode from './QRcode'
+import QRcode from './component/QRcode'
 
 function App() {
 

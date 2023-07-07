@@ -1,4 +1,6 @@
- import './QRCode.css'
+import qrImage from './assets/image-qr-code.png';
+import './QRCode.css'
+
 
 
 export default function QRcode() {
@@ -8,10 +10,10 @@ export default function QRcode() {
 
                 <article className="card">
 
-                    <img src="./images/image-qr-code.png" alt="QR-code" className="qr-image" />
+                    <img src={qrImage} alt="QR-code" className="qr-image" />
 
-                    <h2> Testing Improve your front-end skills by building projects </h2>
-
+                    <h2> Improve your front-end skills by building projects </h2>
+        
 
                     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level </p>
 
