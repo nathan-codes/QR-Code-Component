@@ -8,7 +8,7 @@ export default function QRcode() {
 
                 <article className="card">
 
-                    <img src="/images/image-qr-code.png" alt="QR-code" className="qr-image" />
+                    <img src="./images/image-qr-code.png" alt="QR-code" className="qr-image" />
 
                     <h2> Improve your front-end skills by building projects </h2>
 
