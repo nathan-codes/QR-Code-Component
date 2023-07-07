@@ -1,0 +1,36 @@
+.card {
+    width: 340px;
+    background-color: var(--White);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+
+
+img.qr-image {
+    border-radius: 10px;
+}
+
+
+h2 {
+
+    margin: 1.5rem auto;
+
+}
+
+p {
+    margin: 1.2rem auto 0;
+    font-weight: var(--light-font);
+    color: var(--Grayish-blue);
+    width: 80%;
+
+}
+
+
+.attribution {
+    position: absolute;
+    bottom: 10px;
+    font-size: 11px;
+    text-align: center;
+}
